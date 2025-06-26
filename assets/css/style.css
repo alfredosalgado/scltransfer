@@ -241,7 +241,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(26, 47, 69, 0.7), rgba(26, 47, 69, 0.7)), url('../img/suv-ejecutivo.jpg');
+    background: linear-gradient(rgba(26, 47, 69, 0.7), rgba(26, 47, 69, 0.7)), url('../img/suv.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
